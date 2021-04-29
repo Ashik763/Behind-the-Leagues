@@ -35,7 +35,7 @@ const LeagueDetail = () => {
         </div>
 
         <div className="d-grid col-md-6">
-          <img className="img-fluid mt-2 p-2" src={male} alt="" />
+          <img className="img-fluid mt-2 p-2" src={female} alt="" />
         </div>
 
            
