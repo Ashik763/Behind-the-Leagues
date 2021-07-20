@@ -12,6 +12,9 @@ import LeagueDetail from './Components/LeagueDetail/LeagueDetail';
 import League from './Components/League/League';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+const cors = require('cors');
+
+
 function App() {
 
 
